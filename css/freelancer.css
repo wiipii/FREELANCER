@@ -1,6 +1,6 @@
 /* Inserta tu código aqui */
 
-*{outline: 1px solid red;}
+
 body {
     font-size: 15px;
     color: #2c3e50;
@@ -11,7 +11,7 @@ body {
 {
 	margin-left: 18px;
 	margin-right: 19px;
-	background-color: #;
+	
 }
 
 
@@ -73,6 +73,32 @@ color: black;
 }
 button
 {
-	background-color: red;
+	background-color: #3AE2C2;
+	border-radius: 5px;
 }
 
+.futter
+{
+margin-top: 30px;
+	background-color: #304961;
+	height: 200px;
+}
+.futter h5 
+{
+	color: white;
+	font-weight: bold;
+}
+
+.futter i
+{
+	font-size:20px;
+	color: white; 
+	border-radius: 6px white;
+
+}
+
+.col-lg-8
+{
+	padding-right: 40px;
+	padding-left: 40px;
+}
