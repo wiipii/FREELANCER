@@ -1,0 +1,78 @@
+/* Inserta tu código aqui */
+
+*{outline: 1px solid red;}
+body {
+    font-size: 15px;
+    color: #2c3e50;
+    background-color: white;
+}
+
+.container
+{
+	margin-left: 18px;
+	margin-right: 19px;
+	background-color: #;
+}
+
+
+.
+
+
+ a {
+ color: black;
+ text-decoration: none;
+}
+
+.navbar-default {
+    background-color: #304961;
+
+
+
+}
+.lista li
+{
+	display: inline-block;
+	text-decoration: none;
+}
+
+
+.cont
+{
+background-color:#1DDCB7;
+padding-top: 120px;
+}
+
+.cont h2 ,p
+{
+color :white;
+
+}
+.texto p
+{
+color: black;
+text-align: left;
+}
+
+.texto
+{
+	padding-top: 40px;
+}
+.texto h3
+{
+	font-weight: bold;
+}
+
+.contac
+{
+	padding-top: 30px;
+}
+.contac p
+{
+color: black;
+
+}
+button
+{
+	background-color: red;
+}
+
